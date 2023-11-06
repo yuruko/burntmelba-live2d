@@ -1,1 +1,1 @@
-# burntmelba-live2d
+# BURNTMELBA live2d model (melba recolor)
